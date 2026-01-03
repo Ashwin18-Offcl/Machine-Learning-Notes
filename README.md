@@ -79,8 +79,8 @@ A structured, concept-first and practice-driven repository for mastering
 ✔ High-demand career skill
 
 ✔ Used in finance, healthcare, marketing, IT
-
 ✔ Backbone of Data Science & AI
+
 ---
 ## 🎯 Objectives of This Repository
 
@@ -197,7 +197,22 @@ Clustering (K-Means, Hierarchical)
    Model Serialization
 
    API & App Deployment
+   
+---
 
+## 🛠️ Tools & Technologies Used
+   
+| Tool                 | Purpose             |
+| -------------------- | ------------------- |
+| Python               | Core Language       |
+| NumPy                | Numerical Computing |
+| Pandas               | Data Manipulation   |
+| Matplotlib / Seaborn | Visualization       |
+| Scikit-Learn         | Machine Learning    |
+| TensorFlow / PyTorch | Deep Learning       |
+| Streamlit / Flask    | Deployment          |
+
+---
 
 
 🧑‍💻 Author
